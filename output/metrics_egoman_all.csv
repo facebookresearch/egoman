@@ -1,0 +1,7 @@
+Method,Benchmark,#K,N,ADE,FDE,DTW,ROT
+EgoMAN,egoman_unseen,1,2844,0.15,0.207,0.137,34.015
+EgoMAN,hot3d_ood,1,989,0.166,0.245,0.155,36.117
+EgoMAN,egoman_unseen,5,2844,0.13,0.185,0.117,33.055
+EgoMAN,hot3d_ood,5,989,0.147,0.223,0.135,35.264
+EgoMAN,egoman_unseen,10,2844,0.124,0.178,0.111,32.687
+EgoMAN,hot3d_ood,10,989,0.141,0.217,0.129,34.986
