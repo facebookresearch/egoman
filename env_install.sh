@@ -46,3 +46,5 @@ python setup.py install
 pip install jsonlines
 pip install httpx
 pip install langchain_openai
+pip install torchmetrics
+pip install termcolor
