@@ -53,6 +53,8 @@ We then introduce the **EgoMAN model**, a reasoning-to-motion framework that lin
 Install dependencies using the provided script (requires CUDA 12.4):
 
 ```bash
+conda create python=3.12 -n perception_models
+conda activate perception_models
 bash env_install.sh
 ```
 
