@@ -5,8 +5,6 @@
 # LICENSE file in the root directory of this source tree.
 #
 
-conda create python=3.12 -n perception_models
-conda activate perception_models
 pip install --upgrade pip
 pip install torch==2.6.0 torchvision==0.21.0 xformers torchcodec --index-url https://download.pytorch.org/whl/cu124
 conda install ffmpeg -c conda-forge -y
